@@ -1,0 +1,41 @@
+/* style for hero section  */
+.hero-bg{
+    background-color: #264653;
+    
+}
+.hero-p p{
+    color:#E0E0E0;
+}
+.hero-btn{
+    background-color:#E76F51;
+}
+.hero-img img{
+    width: 100%;
+}
+/* variety of bikes */
+.variety-bikes span{
+    color:#E76F51;
+}
+.f-bike{
+   filter: grayscale(100%);
+}
+/* clients feedback */
+.customer-main span{
+    color:#E76F51;
+}
+.fa-star.filled{
+    color:#E76F51;
+}
+.fa-star.empty{
+    color:#E0E0E0;
+}
+.client-name{
+    color:#23A6F0;
+}
+.client-pro{
+    font-weight: 500;
+}
+/* FAQ part */
+.faq-ban{
+    color:#E76F51;
+}
